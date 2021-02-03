@@ -50,6 +50,9 @@ namespace Data
                     Famili = "ekh",
                     Name = "iman"
                 });
+
+
+            context.SaveChanges();
         }
     }
 }
